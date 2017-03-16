@@ -5,7 +5,7 @@ A baseline system for audio-visual speech recognition using the Kaldi speech rec
 
 The scripts contain the early integration approach that is presented in:
 
-H. Meutzner, N. Ma, R. Nickel, C. Schymura, D. Kolossa, "Improving Audio-Visual Speech Recognition using Deep Neural Networks with Dynamic Stream Reliability Estimates", ICASSP, New Orleans, USA, March 2017 (to appear).
+H. Meutzner, N. Ma, R. Nickel, C. Schymura, D. Kolossa, "Improving Audio-Visual Speech Recognition using Deep Neural Networks with Dynamic Stream Reliability Estimates", ICASSP, New Orleans, USA, March 2017.
 
 Future releases will also contain the late-integration approach using dynamic stream weights.
 
