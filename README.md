@@ -42,6 +42,6 @@ When using these scripts for your research, please cite the following paper
 	@inproceedings{meutzner2017,
 	  author = {Hendrik Meutzner, Ning Ma, Robert Nickel, Christopher Schymura, Dorothea Kolossa},
 	  title = {{Improving Audio-Visual Speech Recognition using Deep Neural Networks with Dynamic Stream Reliability Estimates}},
-	  booktitle = {{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), to appear}},      
-	  Year = {2017}
+	  booktitle = {{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}},      
+	  year = {2017}
 	}
